@@ -9,3 +9,5 @@ This program simulates 3 different page replacement algorithms - FIFO (First in 
 Assumptions: It is assumed that the user will enter real values as parameters on the command line for the page
 	size as well as the physical memory size. It is also assumed that this program will be run in a Unix
 	environment because it depends on sys/time.h
+
+*Note: must supply a memory references text file as input
